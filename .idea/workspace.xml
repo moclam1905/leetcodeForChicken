@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Best Time to Buy and Sell Stock.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Find Closest Number to Zero.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Is Subsequence.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Longest Common Prefix.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Merge Strings Alternately.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Roman to Integer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Summary Ranges.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Arrays &amp; Strings (easy)">
+      <change afterPath="$PROJECT_DIR$/src/Merge Intervals.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Product of Array Except Self.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Spiral Matrix.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
@@ -43,7 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.MainKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -91,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733094040270</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Arrays &amp; Strings (easy)">
+      <option name="closed" value="true" />
+      <created>1733112970845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733112970845</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +111,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Arrays &amp; Strings (easy)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays &amp; Strings (easy)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -121,6 +126,16 @@
           <url>file://$PROJECT_DIR$/src/Is Subsequence.kt</url>
           <line>7</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Product of Array Except Self.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Merge Intervals.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
