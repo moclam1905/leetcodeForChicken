@@ -1,3 +1,5 @@
+package arrayAndString
+
 fun isSubsequence(s: String, t: String): Boolean {
     if (s.isEmpty())
         return true

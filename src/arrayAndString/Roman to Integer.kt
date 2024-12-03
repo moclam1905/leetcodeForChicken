@@ -1,3 +1,5 @@
+package arrayAndString
+
 fun romanToInt(s: String): Int {
     val map = mapOf(
         'I' to 1, 'V' to 5, 'X' to 10,

@@ -1,3 +1,5 @@
+package arrayAndString
+
 fun productExceptSelf(nums: IntArray): IntArray {
     val n = nums.size
 

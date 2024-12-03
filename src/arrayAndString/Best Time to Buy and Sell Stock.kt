@@ -1,3 +1,5 @@
+package arrayAndString
+
 fun maxProfit(prices: IntArray): Int {
     var profit = 0
     var min = Int.MAX_VALUE

@@ -1,3 +1,5 @@
+package arrayAndString
+
 fun longestCommonPrefix(strs: Array<String>): String {
     val firstItem = strs[0]
 

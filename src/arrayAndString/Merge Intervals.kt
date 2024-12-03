@@ -1,3 +1,5 @@
+package arrayAndString
+
 fun merge(intervals: Array<IntArray>): Array<IntArray> {
 
     if (intervals.isEmpty()) return arrayOf()

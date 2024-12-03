@@ -1,3 +1,5 @@
+package arrayAndString
+
 import kotlin.math.abs
 
 fun findClosestNumber(nums: IntArray): Int {

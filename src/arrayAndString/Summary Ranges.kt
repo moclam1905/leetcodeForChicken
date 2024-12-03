@@ -1,3 +1,5 @@
+package arrayAndString
+
 fun summaryRanges(nums: IntArray): List<String> {
     if (nums.isEmpty()) return emptyList()
 
