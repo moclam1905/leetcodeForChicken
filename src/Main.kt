@@ -1,10 +1,14 @@
+import arrayAndString.rotate
+import hashMapAndSet.groupAnagrams
+import hashMapAndSet.groupAnagramsV3
+import hashMapAndSet.longestConsecutive
 import hashMapAndSet.twoSum
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
-    val s = intArrayOf(3,2,4)
-    val k = 6
-    println(twoSum(s, k).joinToString())
+    val strs = intArrayOf(1, 2, 3, 100, 4, 200)
+
+    longestConsecutive(strs)
 
 }
