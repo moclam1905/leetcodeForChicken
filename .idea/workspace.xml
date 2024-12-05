@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Hashmaps &amp; Sets (easy)">
-      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Rotate Image.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashMapAndSet/Group Anagrams.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashMapAndSet/Longest Consecutive Sequence.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashMapAndSet/Valid Sudoku.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Hashmaps &amp; Sets (medium)&#10;Arrays &amp; Strings (medium)">
+      <change afterPath="$PROJECT_DIR$/src/twoPointers/3Sum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoPointers/Container With Most Water.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoPointers/Reverse String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoPointers/Squares of a Sorted Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoPointers/Trapping Rain Water.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoPointers/Two Sum II - Input Array Is Sorted.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoPointers/Valid Palindrome.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
@@ -113,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733203496450</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hashmaps &amp; Sets (medium)&#10;Arrays &amp; Strings (medium)">
+      <option name="closed" value="true" />
+      <created>1733287433533</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733287433533</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,7 +143,8 @@
     <MESSAGE value="Arrays &amp; Strings (easy)" />
     <MESSAGE value="Arrays &amp; Strings (medium)" />
     <MESSAGE value="Hashmaps &amp; Sets (easy)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hashmaps &amp; Sets (easy)" />
+    <MESSAGE value="Hashmaps &amp; Sets (medium)&#10;Arrays &amp; Strings (medium)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hashmaps &amp; Sets (medium)&#10;Arrays &amp; Strings (medium)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -171,6 +183,36 @@
           <url>file://$PROJECT_DIR$/src/hashMapAndSet/Longest Consecutive Sequence.kt</url>
           <line>24</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/twoPointers/Squares of a Sorted Array.kt</url>
+          <line>33</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/twoPointers/3Sum.kt</url>
+          <line>62</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/twoPointers/3Sum.kt</url>
+          <line>33</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/twoPointers/Container With Most Water.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/twoPointers/Trapping Rain Water.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/twoPointers/Trapping Rain Water.kt</url>
+          <line>53</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
