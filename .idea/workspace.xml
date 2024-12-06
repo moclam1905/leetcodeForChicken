@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Hashmaps &amp; Sets (medium)&#10;Arrays &amp; Strings (medium)">
-      <change afterPath="$PROJECT_DIR$/src/twoPointers/3Sum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoPointers/Container With Most Water.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoPointers/Reverse String.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoPointers/Squares of a Sorted Array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoPointers/Trapping Rain Water.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoPointers/Two Sum II - Input Array Is Sorted.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoPointers/Valid Palindrome.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="2 Pointers (easy + medium)">
+      <change afterPath="$PROJECT_DIR$/src/stacks/Baseball Game.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacks/Daily Temperatures.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacks/Evaluate Reverse Polish Notation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacks/Min Stack.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacks/Valid Parentheses.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
@@ -41,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.MainKt.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/Main.kt"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/Main.kt&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "kotlin"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;kotlin&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Arrays&amp;String" />
@@ -124,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733287433533</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2 Pointers (easy + medium)">
+      <option name="closed" value="true" />
+      <created>1733370289310</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733370289310</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,7 +150,8 @@
     <MESSAGE value="Arrays &amp; Strings (medium)" />
     <MESSAGE value="Hashmaps &amp; Sets (easy)" />
     <MESSAGE value="Hashmaps &amp; Sets (medium)&#10;Arrays &amp; Strings (medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hashmaps &amp; Sets (medium)&#10;Arrays &amp; Strings (medium)" />
+    <MESSAGE value="2 Pointers (easy + medium)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 Pointers (easy + medium)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -206,13 +213,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/twoPointers/Trapping Rain Water.kt</url>
-          <line>25</line>
+          <line>22</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/twoPointers/Trapping Rain Water.kt</url>
-          <line>53</line>
+          <line>49</line>
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/stacks/Valid Parentheses.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/stacks/Daily Temperatures.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
