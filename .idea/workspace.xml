@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="2 Pointers (easy + medium)">
-      <change afterPath="$PROJECT_DIR$/src/stacks/Baseball Game.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stacks/Daily Temperatures.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stacks/Evaluate Reverse Polish Notation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stacks/Min Stack.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stacks/Valid Parentheses.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Stacks (easy + medium)">
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/Copy List with Random Pointer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/Linked List Cycle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/Merge Two Sorted Lists.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/Middle of the Linked List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/Remove Duplicates from Sorted List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/Remove Nth Node From End of List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/Reverse Linked List.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
@@ -130,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733370289310</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Stacks (easy + medium)">
+      <option name="closed" value="true" />
+      <created>1733457882307</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733457882307</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,7 +161,8 @@
     <MESSAGE value="Hashmaps &amp; Sets (easy)" />
     <MESSAGE value="Hashmaps &amp; Sets (medium)&#10;Arrays &amp; Strings (medium)" />
     <MESSAGE value="2 Pointers (easy + medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 Pointers (easy + medium)" />
+    <MESSAGE value="Stacks (easy + medium)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stacks (easy + medium)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -222,11 +233,6 @@
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Main.kt</url>
-          <line>9</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/stacks/Valid Parentheses.kt</url>
           <line>17</line>
           <option name="timeStamp" value="55" />
@@ -236,7 +242,47 @@
           <line>9</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/linkedLists/Remove Duplicates from Sorted List.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/linkedLists/Reverse Linked List.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/linkedLists/Merge Two Sorted Lists.kt</url>
+          <line>4</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/linkedLists/Remove Nth Node From End of List.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/linkedLists/Copy List with Random Pointer.kt</url>
+          <line>26</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/linkedLists/Copy List with Random Pointer.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/linkedLists/Copy List with Random Pointer.kt</url>
+          <line>65</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Node" memberName="random" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
