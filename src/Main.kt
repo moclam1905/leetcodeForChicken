@@ -1,3 +1,4 @@
+import binarySearch.isPerfectSquare
 import linkedLists.*
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -42,7 +43,10 @@ fun main() {
     f.random = d
     g.random = a
 
-    copyRandomList(a)
+    //copyRandomList(a)
+
+
+    isPerfectSquare(2147483647)
 
 }
 

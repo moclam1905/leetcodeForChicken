@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Stacks (easy + medium)">
-      <change afterPath="$PROJECT_DIR$/src/linkedLists/Copy List with Random Pointer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedLists/Linked List Cycle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedLists/Merge Two Sorted Lists.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedLists/Middle of the Linked List.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedLists/Remove Duplicates from Sorted List.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedLists/Remove Nth Node From End of List.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedLists/Reverse Linked List.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Linked Lists (easy + medium)">
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/Binary Search.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/First Bad Version.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/Search Insert Position.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/Valid Perfect Square.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
@@ -41,20 +38,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Kotlin.MainKt.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/Main.kt&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/Main.kt"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;kotlin&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "kotlin"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Arrays&amp;String" />
@@ -140,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733457882307</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Linked Lists (easy + medium)">
+      <option name="closed" value="true" />
+      <created>1733902156190</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733902156190</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,7 +167,8 @@
     <MESSAGE value="Hashmaps &amp; Sets (medium)&#10;Arrays &amp; Strings (medium)" />
     <MESSAGE value="2 Pointers (easy + medium)" />
     <MESSAGE value="Stacks (easy + medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stacks (easy + medium)" />
+    <MESSAGE value="Linked Lists (easy + medium)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked Lists (easy + medium)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -273,9 +279,9 @@
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/linkedLists/Copy List with Random Pointer.kt</url>
-          <line>65</line>
-          <option name="timeStamp" value="79" />
+          <url>file://$PROJECT_DIR$/src/binarySearch/Valid Perfect Square.kt</url>
+          <line>5</line>
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
