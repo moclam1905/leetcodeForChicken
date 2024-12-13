@@ -1,5 +1,4 @@
-import binarySearch.isPerfectSquare
-import linkedLists.*
+import binarySearch.minEatingSpeed
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -46,7 +45,10 @@ fun main() {
     //copyRandomList(a)
 
 
-    isPerfectSquare(2147483647)
+    //isPerfectSquare(2147483647)
+
+    val x = intArrayOf(3,6,7,11)
+    minEatingSpeed(x, 8)
 
 }
 

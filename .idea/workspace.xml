@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Linked Lists (easy + medium)">
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/Binary Search.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/First Bad Version.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/Search Insert Position.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/Valid Perfect Square.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Binary Search (easy)">
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/Find Minimum in Rotated Sorted Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/Koko Eating Bananas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/Search a 2D Matrix.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/Search in Rotated Sorted Array.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
@@ -40,7 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.MainKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -145,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733902156190</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Binary Search (easy)">
+      <option name="closed" value="true" />
+      <created>1733991280938</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733991280938</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,7 +176,8 @@
     <MESSAGE value="2 Pointers (easy + medium)" />
     <MESSAGE value="Stacks (easy + medium)" />
     <MESSAGE value="Linked Lists (easy + medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linked Lists (easy + medium)" />
+    <MESSAGE value="Binary Search (easy)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Search (easy)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -282,6 +291,21 @@
           <url>file://$PROJECT_DIR$/src/binarySearch/Valid Perfect Square.kt</url>
           <line>5</line>
           <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/Search in Rotated Sorted Array.kt</url>
+          <line>5</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/Search in Rotated Sorted Array.kt</url>
+          <line>41</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/Koko Eating Bananas.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="89" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
