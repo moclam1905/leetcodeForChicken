@@ -1,4 +1,6 @@
 import binarySearch.minEatingSpeed
+import slidingWindow.characterReplacement
+import slidingWindow.findMaxAverage
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -47,8 +49,9 @@ fun main() {
 
     //isPerfectSquare(2147483647)
 
-    val x = intArrayOf(3,6,7,11)
-    minEatingSpeed(x, 8)
+//    val x = intArrayOf(3,6,7,11)
+//    minEatingSpeed(x, 8)
+    characterReplacement("AABABCC", 2)
 
 }
 
