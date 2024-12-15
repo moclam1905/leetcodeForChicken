@@ -1,5 +1,6 @@
 import binarySearch.minEatingSpeed
 import slidingWindow.characterReplacement
+import slidingWindow.checkInclusion
 import slidingWindow.findMaxAverage
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -51,7 +52,9 @@ fun main() {
 
 //    val x = intArrayOf(3,6,7,11)
 //    minEatingSpeed(x, 8)
-    characterReplacement("AABABCC", 2)
+    val s1 = "ab"
+    val s2 = "eidbaooo"
+    checkInclusion(s1, s2)
 
 }
 

@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Binary Search (medium)">
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Longest Repeating Character Replacement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Longest Substring Without Repeating Characters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Max Consecutive Ones III.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Maximum Average Subarray I.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Sliding Window (easy + medium)">
+      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Minimum Size Subarray Sum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Permutation in String.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
@@ -161,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734062739556</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Sliding Window (easy + medium)">
+      <option name="closed" value="true" />
+      <created>1734138379137</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1734138379137</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,7 +192,8 @@
     <MESSAGE value="Linked Lists (easy + medium)" />
     <MESSAGE value="Binary Search (easy)" />
     <MESSAGE value="Binary Search (medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary Search (medium)" />
+    <MESSAGE value="Sliding Window (easy + medium)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sliding Window (easy + medium)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -333,8 +340,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/slidingWindow/Longest Repeating Character Replacement.kt</url>
-          <line>7</line>
-          <option name="timeStamp" value="94" />
+          <line>20</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/slidingWindow/Permutation in String.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/slidingWindow/Permutation in String.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
