@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Sliding Window (easy + medium)">
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Minimum Size Subarray Sum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Permutation in String.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Sliding Window (medium)">
+      <change afterPath="$PROJECT_DIR$/src/trees/Balanced Binary Tree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Binary Tree Level Order Traversal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Diameter of Binary Tree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Invert Binary Tree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Kth Smallest Element in a BST.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Maximum Depth of Binary Tree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Minimum Absolute Difference in BST.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Path Sum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Same Tree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Subtree of Another Tree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Symmetric Tree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Validate Binary Search Tree.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
@@ -167,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734138379137</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Sliding Window (medium)">
+      <option name="closed" value="true" />
+      <created>1734249321928</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734249321928</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +211,8 @@
     <MESSAGE value="Binary Search (easy)" />
     <MESSAGE value="Binary Search (medium)" />
     <MESSAGE value="Sliding Window (easy + medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sliding Window (easy + medium)" />
+    <MESSAGE value="Sliding Window (medium)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sliding Window (medium)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -352,6 +371,16 @@
           <url>file://$PROJECT_DIR$/src/slidingWindow/Permutation in String.kt</url>
           <line>17</line>
           <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/trees/Invert Binary Tree.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/trees/Diameter of Binary Tree.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="103" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
