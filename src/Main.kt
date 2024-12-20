@@ -1,4 +1,6 @@
 import binarySearch.minEatingSpeed
+import heaps.kClosest
+import heaps.topKFrequent
 import slidingWindow.characterReplacement
 import slidingWindow.checkInclusion
 import slidingWindow.findMaxAverage
@@ -73,6 +75,15 @@ fun main() {
 
 
     diameterOfBinaryTree(a)
+
+
+
+//    val nums = intArrayOf(1,1,1,2,2,3)
+//    val k = 2
+//    topKFrequent(nums, k)
+
+    val numbs = arrayOf(intArrayOf(3,3),intArrayOf(5,-1),intArrayOf(-2,4))
+    kClosest(numbs, 2)
 
 
 }
