@@ -1,6 +1,7 @@
 import binarySearch.minEatingSpeed
 import heaps.kClosest
 import heaps.topKFrequent
+import recursiveBacktracking.*
 import slidingWindow.characterReplacement
 import slidingWindow.checkInclusion
 import slidingWindow.findMaxAverage
@@ -82,8 +83,10 @@ fun main() {
 //    val k = 2
 //    topKFrequent(nums, k)
 
-    val numbs = arrayOf(intArrayOf(3,3),intArrayOf(5,-1),intArrayOf(-2,4))
-    kClosest(numbs, 2)
+//    val numbs = arrayOf(intArrayOf(3,3),intArrayOf(5,-1),intArrayOf(-2,4))
+//    kClosest(numbs, 2)
+
+    combinationSumV2(intArrayOf(2,3,6,7), 7)
 
 
 }

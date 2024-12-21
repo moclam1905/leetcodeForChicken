@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Trees (medium)">
-      <change afterPath="$PROJECT_DIR$/src/heaps/K Closest Points to Origin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heaps/Kth Largest Element in an Array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heaps/Last Stone Weight.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heaps/Merge k Sorted Lists.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heaps/Top K Frequent Elements.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Heaps (easy + medium + hard)">
+      <change afterPath="$PROJECT_DIR$/src/recursiveBacktracking/Combination Sum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursiveBacktracking/Combinations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursiveBacktracking/Permutations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursiveBacktracking/Subsets.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
@@ -198,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734586007958</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Heaps (easy + medium + hard)">
+      <option name="closed" value="true" />
+      <created>1734669866207</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1734669866207</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,7 +234,8 @@
     <MESSAGE value="Sliding Window (medium)" />
     <MESSAGE value="Trees (easy + medium)" />
     <MESSAGE value="Trees (medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trees (medium)" />
+    <MESSAGE value="Heaps (easy + medium + hard)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Heaps (easy + medium + hard)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -391,6 +399,41 @@
           <url>file://$PROJECT_DIR$/src/trees/Invert Binary Tree.kt</url>
           <line>13</line>
           <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/recursiveBacktracking/Subsets.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/recursiveBacktracking/Permutations.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/recursiveBacktracking/Permutations.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/recursiveBacktracking/Combinations.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/recursiveBacktracking/Combinations.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/recursiveBacktracking/Combination Sum.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/recursiveBacktracking/Combination Sum.kt</url>
+          <line>35</line>
+          <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
