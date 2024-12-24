@@ -1,12 +1,5 @@
-import binarySearch.minEatingSpeed
-import heaps.kClosest
-import heaps.topKFrequent
 import recursiveBacktracking.*
-import slidingWindow.characterReplacement
-import slidingWindow.checkInclusion
-import slidingWindow.findMaxAverage
 import trees.diameterOfBinaryTree
-import trees.invertTree
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -86,7 +79,11 @@ fun main() {
 //    val numbs = arrayOf(intArrayOf(3,3),intArrayOf(5,-1),intArrayOf(-2,4))
 //    kClosest(numbs, 2)
 
-    combinationSumV2(intArrayOf(2,3,6,7), 7)
+    //combinationSumV2(intArrayOf(2,3,6,7), 7)
+    exist(arrayOf(
+        charArrayOf('A', 'B', 'C', 'E'),
+        charArrayOf('S', 'F', 'C', 'S'),
+        charArrayOf('A', 'D', 'E', 'E')), "ABCB")
 
 
 }
