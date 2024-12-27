@@ -1,3 +1,4 @@
+import graphs.*
 import recursiveBacktracking.*
 import trees.diameterOfBinaryTree
 
@@ -80,11 +81,27 @@ fun main() {
 //    kClosest(numbs, 2)
 
     //combinationSumV2(intArrayOf(2,3,6,7), 7)
-    exist(arrayOf(
-        charArrayOf('A', 'B', 'C', 'E'),
-        charArrayOf('S', 'F', 'C', 'S'),
-        charArrayOf('A', 'D', 'E', 'E')), "ABCB")
+//    exist(arrayOf(
+//        charArrayOf('A', 'B', 'C', 'E'),
+//        charArrayOf('S', 'F', 'C', 'S'),
+//        charArrayOf('A', 'D', 'E', 'E')), "ABCB")
 
+//    findOrder(4, arrayOf(intArrayOf(1,0),
+//        intArrayOf(2,0),
+//        intArrayOf(3,1),
+//        intArrayOf(3,2)))
+
+    val times = arrayOf(
+        intArrayOf(1,2,1),
+        intArrayOf(1,4,4),
+        intArrayOf(2,5,10),
+        intArrayOf(2,3,1),
+        intArrayOf(5,4,4),
+        intArrayOf(3,4,1)
+    )
+    val N = 5
+    val K = 1
+    networkDelayTime(times, N, K)
 
 }
 
@@ -101,3 +118,7 @@ class Node(var `val`: Int) {
     var left: TreeNode? = null
     var right: TreeNode? = null
  }
+
+class NodeGraph(var `val`: Int) {
+    var neighbors: MutableList<NodeGraph?> = ArrayList()
+}

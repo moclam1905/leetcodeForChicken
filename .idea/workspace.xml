@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Recursive Backtracking (medium)">
-      <change afterPath="$PROJECT_DIR$/src/recursiveBacktracking/Generate Parentheses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursiveBacktracking/Letter Combinations of a Phone Number.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursiveBacktracking/Word Search.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/Clone Graph.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/Course Schedule II.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/Course Schedule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/Find if Path Exists in Graph.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/Max Area of Island.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/Min Cost to Connect All Points.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/Network Delay Time.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/Number of Islands.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/Pacific Atlantic Water Flow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/Rotting Oranges.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
@@ -37,21 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Kotlin.MainKt.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/trees&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/Main.kt&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.MainKt.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/trees",
+    "onboarding.tips.debug.path": "/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/Main.kt",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;kotlin&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "kotlin"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/trees" />
@@ -212,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734768228158</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Recursive Backtracking (medium)">
+      <option name="closed" value="true" />
+      <created>1735002802974</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735002802974</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,6 +468,56 @@
           <url>file://$PROJECT_DIR$/src/recursiveBacktracking/Generate Parentheses.kt</url>
           <line>6</line>
           <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/recursiveBacktracking/Word Search.kt</url>
+          <line>26</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/recursiveBacktracking/Word Search.kt</url>
+          <line>39</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/graphs/Find if Path Exists in Graph.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/graphs/Course Schedule.kt</url>
+          <line>43</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/graphs/Course Schedule.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/graphs/Course Schedule II.kt</url>
+          <line>44</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/graphs/Rotting Oranges.kt</url>
+          <line>57</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/graphs/Min Cost to Connect All Points.kt</url>
+          <line>32</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/graphs/Min Cost to Connect All Points.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/graphs/Network Delay Time.kt</url>
+          <line>67</line>
+          <option name="timeStamp" value="159" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
