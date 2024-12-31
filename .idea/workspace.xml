@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Recursive Backtracking (medium)">
-      <change afterPath="$PROJECT_DIR$/src/graphs/Clone Graph.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphs/Course Schedule II.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphs/Course Schedule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphs/Find if Path Exists in Graph.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphs/Max Area of Island.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphs/Min Cost to Connect All Points.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphs/Network Delay Time.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphs/Number of Islands.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphs/Pacific Atlantic Water Flow.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graphs/Rotting Oranges.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Graph (easy + medium)">
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Climbing Stairs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Fibonacci Number.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/House Robber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Jump Game.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Maximum Subarray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Min Cost Climbing Stairs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Unique Paths.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Jump_GameKt.executor": "Debug",
     "Kotlin.MainKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -69,7 +66,14 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Jump_GameKt">
+    <configuration name="Jump_GameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.Jump_GameKt" />
+      <module name="leetcodeForChicken" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="leetcodeForChicken" />
@@ -79,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Jump_GameKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
@@ -228,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735002802974</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Graph (easy + medium)">
+      <option name="closed" value="true" />
+      <created>1735281346642</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735281346642</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,7 +272,8 @@
     <MESSAGE value="Trees (medium)" />
     <MESSAGE value="Heaps (easy + medium + hard)" />
     <MESSAGE value="Recursive Backtracking (medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recursive Backtracking (medium)" />
+    <MESSAGE value="Graph (easy + medium)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Graph (easy + medium)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -513,11 +527,6 @@
           <url>file://$PROJECT_DIR$/src/graphs/Min Cost to Connect All Points.kt</url>
           <line>16</line>
           <option name="timeStamp" value="153" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/graphs/Network Delay Time.kt</url>
-          <line>67</line>
-          <option name="timeStamp" value="159" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
