@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Graph (easy + medium)">
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Climbing Stairs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Fibonacci Number.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/House Robber.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Jump Game.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Maximum Subarray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Min Cost Climbing Stairs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Unique Paths.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Dynamic Programing(easy + medium)">
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Coin Change.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Longest Common Subsequence.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Longest Increasing Subsequence.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +38,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Coin_ChangeKt.executor": "Debug",
     "Kotlin.Jump_GameKt.executor": "Debug",
+    "Kotlin.Longest_Common_SubsequenceKt.executor": "Debug",
+    "Kotlin.Longest_Increasing_SubsequenceKt.executor": "Debug",
     "Kotlin.MainKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -66,9 +65,30 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Jump_GameKt">
+  <component name="RunManager" selected="Kotlin.Longest_Common_SubsequenceKt">
+    <configuration name="Coin_ChangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.Coin_ChangeKt" />
+      <module name="leetcodeForChicken" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Jump_GameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dynamicProgramming.Jump_GameKt" />
+      <module name="leetcodeForChicken" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Longest_Common_SubsequenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.Longest_Common_SubsequenceKt" />
+      <module name="leetcodeForChicken" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Longest_Increasing_SubsequenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.Longest_Increasing_SubsequenceKt" />
       <module name="leetcodeForChicken" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,6 +103,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Longest_Common_SubsequenceKt" />
+        <item itemvalue="Kotlin.Longest_Increasing_SubsequenceKt" />
+        <item itemvalue="Kotlin.Coin_ChangeKt" />
         <item itemvalue="Kotlin.Jump_GameKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
@@ -241,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735281346642</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Dynamic Programing(easy + medium)">
+      <option name="closed" value="true" />
+      <created>1735631240943</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735631240943</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,7 +304,8 @@
     <MESSAGE value="Heaps (easy + medium + hard)" />
     <MESSAGE value="Recursive Backtracking (medium)" />
     <MESSAGE value="Graph (easy + medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Graph (easy + medium)" />
+    <MESSAGE value="Dynamic Programing(easy + medium)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dynamic Programing(easy + medium)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -527,6 +559,16 @@
           <url>file://$PROJECT_DIR$/src/graphs/Min Cost to Connect All Points.kt</url>
           <line>16</line>
           <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/dynamicProgramming/Longest Increasing Subsequence.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/dynamicProgramming/Longest Common Subsequence.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="161" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
