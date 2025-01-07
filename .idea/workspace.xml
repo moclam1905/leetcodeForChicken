@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Dynamic Programing(easy + medium)">
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Coin Change.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Longest Common Subsequence.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Longest Increasing Subsequence.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Dynamic Programing(medium)">
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Best Time to Buy and Sell Stock II.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/H-Index.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Merge Sorted Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Remove Duplicates from Sorted Array II.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Remove Duplicates from Sorted Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Remove Element.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Sort Colors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Zigzag Conversion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/H-Index II.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayAndString/Best Time to Buy and Sell Stock.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayAndString/Best Time to Buy and Sell Stock.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,57 +43,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.Coin_ChangeKt.executor": "Debug",
-    "Kotlin.Jump_GameKt.executor": "Debug",
-    "Kotlin.Longest_Common_SubsequenceKt.executor": "Debug",
-    "Kotlin.Longest_Increasing_SubsequenceKt.executor": "Debug",
-    "Kotlin.MainKt.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/trees",
-    "onboarding.tips.debug.path": "/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/Main.kt",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.Coin_ChangeKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.Jump_GameKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.Longest_Common_SubsequenceKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.Longest_Increasing_SubsequenceKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/trees&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/Main.kt&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "kotlin"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;kotlin&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/trees" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/binarySearch" />
       <recent name="$PROJECT_DIR$/src/Arrays&amp;String" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Longest_Common_SubsequenceKt">
-    <configuration name="Coin_ChangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.Coin_ChangeKt" />
-      <module name="leetcodeForChicken" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Jump_GameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.Jump_GameKt" />
-      <module name="leetcodeForChicken" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Longest_Common_SubsequenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.Longest_Common_SubsequenceKt" />
-      <module name="leetcodeForChicken" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Longest_Increasing_SubsequenceKt">
     <configuration name="Longest_Increasing_SubsequenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dynamicProgramming.Longest_Increasing_SubsequenceKt" />
       <module name="leetcodeForChicken" />
@@ -103,10 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Longest_Common_SubsequenceKt" />
         <item itemvalue="Kotlin.Longest_Increasing_SubsequenceKt" />
-        <item itemvalue="Kotlin.Coin_ChangeKt" />
-        <item itemvalue="Kotlin.Jump_GameKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
@@ -272,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735631240943</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Dynamic Programing(medium)">
+      <option name="closed" value="true" />
+      <created>1735696141590</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735696141590</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,7 +298,8 @@
     <MESSAGE value="Recursive Backtracking (medium)" />
     <MESSAGE value="Graph (easy + medium)" />
     <MESSAGE value="Dynamic Programing(easy + medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dynamic Programing(easy + medium)" />
+    <MESSAGE value="Dynamic Programing(medium)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dynamic Programing(medium)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
