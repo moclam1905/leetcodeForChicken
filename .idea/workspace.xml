@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Arrays &amp; Strings + Binary Search (easy + medium)">
-      <change afterPath="$PROJECT_DIR$/src/stacks/Largest Rectangle in Histogram.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoPointers/3Sum Closest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoPointers/4Sum.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="2 Pointers(medium) + stack(hard)">
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/Insert Greatest Common Divisors in Linked List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursiveBacktracking/Jump Game II.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/Average of Levels in Binary Tree.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736234382783</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2 Pointers(medium) + stack(hard)">
+      <option name="closed" value="true" />
+      <created>1736302221633</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1736302221633</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,7 +311,8 @@
     <MESSAGE value="Dynamic Programing(easy + medium)" />
     <MESSAGE value="Dynamic Programing(medium)" />
     <MESSAGE value="Arrays &amp; Strings + Binary Search (easy + medium)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays &amp; Strings + Binary Search (easy + medium)" />
+    <MESSAGE value="2 Pointers(medium) + stack(hard)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 Pointers(medium) + stack(hard)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
