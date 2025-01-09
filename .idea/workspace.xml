@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="2 Pointers(medium) + stack(hard)">
-      <change afterPath="$PROJECT_DIR$/src/linkedLists/Insert Greatest Common Divisors in Linked List.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursiveBacktracking/Jump Game II.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/Average of Levels in Binary Tree.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Linked Lists  + Trees + Greedy">
+      <change afterPath="$PROJECT_DIR$/src/bitManipulation/Add Binary.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitManipulation/Base 7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitManipulation/Number of 1 Bits.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitManipulation/Single Number.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,29 +37,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.Coin_ChangeKt.executor": "Debug",
-    "Kotlin.Jump_GameKt.executor": "Debug",
-    "Kotlin.Largest_Rectangle_in_HistogramKt.executor": "Debug",
-    "Kotlin.Longest_Common_SubsequenceKt.executor": "Debug",
-    "Kotlin.Longest_Increasing_SubsequenceKt.executor": "Debug",
-    "Kotlin.MainKt.executor": "Debug",
-    "Kotlin._4SumKt.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/trees",
-    "onboarding.tips.debug.path": "/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/Main.kt",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.Coin_ChangeKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.Jump_GameKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.Largest_Rectangle_in_HistogramKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.Longest_Common_SubsequenceKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.Longest_Increasing_SubsequenceKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin._4SumKt.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/trees&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/lamnguyen/AndroidStudioProjects/Leetcode/leetcodeForChicken/src/Main.kt&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "kotlin"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;kotlin&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/trees" />
@@ -276,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736302221633</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Linked Lists  + Trees + Greedy">
+      <option name="closed" value="true" />
+      <created>1736319844019</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1736319844019</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,7 +321,8 @@
     <MESSAGE value="Dynamic Programing(medium)" />
     <MESSAGE value="Arrays &amp; Strings + Binary Search (easy + medium)" />
     <MESSAGE value="2 Pointers(medium) + stack(hard)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 Pointers(medium) + stack(hard)" />
+    <MESSAGE value="Linked Lists  + Trees + Greedy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked Lists  + Trees + Greedy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
