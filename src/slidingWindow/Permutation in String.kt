@@ -28,3 +28,7 @@ fun checkInclusion(s1: String, s2: String): Boolean {
 
     return false
 }
+
+fun main() {
+    checkInclusion("ab", "eidbaooo")
+}
