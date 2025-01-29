@@ -20,3 +20,7 @@ fun characterReplacement(s: String, k: Int): Int {
 
     return mW
 }
+
+fun main() {
+    characterReplacement("AABABBA", 1)
+}

@@ -6,8 +6,8 @@ fun lengthOfLongestSubstring(s: String): Int {
     var l = 0
 
     for (r in s.indices) {
-        if (set.contains(s[r])) {
-            set.remove(s[r])
+        while (set.contains(s[r])) {
+            set.remove(s[l])
             l++
         }
         maxLength = Math.max(maxLength, r - l + 1)
@@ -15,4 +15,8 @@ fun lengthOfLongestSubstring(s: String): Int {
     }
 
     return maxLength
+}
+
+fun main() {
+    println(lengthOfLongestSubstring("pwwkew"))
 }
