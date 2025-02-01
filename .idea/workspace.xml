@@ -4,24 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="2 Pointers">
-      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Maximum Score from Performing Multiplication Operations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Binary Subarrays With Sum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Count Number of Nice Subarrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Fruit Into Baskets.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Maximum Points You Can Obtain from Cards.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Maximum Sum of Distinct Subarrays With Length K.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Minimum Deletions to Make Character Frequencies Unique.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Minimum Window Substring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Removing Minimum and Maximum From Array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Sliding Window Maximum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Smallest Range II.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingWindow/Subarray Product Less Than K.kt" afterDir="false" />
+    <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Array problems">
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Continuous Subarray Sum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Find Pivot Index.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Maximum Sum Circular Subarray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Maximum XOR of Two Numbers in an Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Minimum Number of Flips to Make the Binary String Alternating.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Minimum Value to Get Positive Step by Step Sum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Range Sum Query - Immutable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Subarray Sum Equals K.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Subarray Sums Divisible by K.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Sum of All Odd Length Subarrays.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/slidingWindow/Longest Repeating Character Replacement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/slidingWindow/Longest Repeating Character Replacement.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/slidingWindow/Longest Substring Without Repeating Characters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/slidingWindow/Longest Substring Without Repeating Characters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayAndString/Product of Array Except Self.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayAndString/Product of Array Except Self.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +49,11 @@
     "Kotlin.Backspace_String_CompareKt.executor": "Debug",
     "Kotlin.Binary_Subarrays_With_SumKt.executor": "Debug",
     "Kotlin.Coin_ChangeKt.executor": "Debug",
+    "Kotlin.Continuous_Subarray_SumKt.executor": "Debug",
     "Kotlin.Count_Number_of_Nice_SubarraysKt.executor": "Debug",
     "Kotlin.Find_the_Duplicate_NumberKt.executor": "Debug",
     "Kotlin.Fruit_Into_BasketsKt.executor": "Debug",
+    "Kotlin.Fun_findMaximumXOR_nums__IntArray___Int_________________Kt.executor": "Debug",
     "Kotlin.Jump_GameKt.executor": "Debug",
     "Kotlin.Largest_Rectangle_in_HistogramKt.executor": "Debug",
     "Kotlin.Longest_Common_SubsequenceKt.executor": "Debug",
@@ -68,16 +65,22 @@
     "Kotlin.MainKt.executor": "Debug",
     "Kotlin.Maximum_Points_You_Can_Obtain_from_CardsKt.executor": "Debug",
     "Kotlin.Maximum_Score_from_Performing_Multiplication_OperationsKt.executor": "Debug",
+    "Kotlin.Maximum_Sum_Circular_SubarrayKt.executor": "Debug",
     "Kotlin.Maximum_Sum_of_Distinct_Subarrays_With_Length_KKt.executor": "Debug",
     "Kotlin.Minimum_Deletions_to_Make_Character_Frequencies_UniqueKt.executor": "Debug",
+    "Kotlin.Minimum_Number_of_Flips_to_Make_the_Binary_String_AlternatingKt.executor": "Debug",
     "Kotlin.Minimum_Window_SubstringKt.executor": "Debug",
     "Kotlin.Number_of_Sub_arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_ThresholdKt.executor": "Debug",
     "Kotlin.Permutation_in_StringKt.executor": "Debug",
+    "Kotlin.Product_of_Array_Except_SelfKt.executor": "Debug",
     "Kotlin.Reverse_Vowels_of_a_StringKt.executor": "Debug",
     "Kotlin.Reverse_Words_in_a_StringKt.executor": "Debug",
     "Kotlin.Sliding_Window_MaximumKt.executor": "Debug",
     "Kotlin.Smallest_Range_IIKt.executor": "Debug",
     "Kotlin.Subarray_Product_Less_Than_KKt.executor": "Run",
+    "Kotlin.Subarray_Sum_Equals_KKt.executor": "Debug",
+    "Kotlin.Subarray_Sums_Divisible_by_KKt.executor": "Debug",
+    "Kotlin.Sum_of_All_Odd_Length_SubarraysKt.executor": "Debug",
     "Kotlin.Valid_Palindrome_IIKt.executor": "Debug",
     "Kotlin._4SumKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -106,37 +109,37 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Maximum_Sum_of_Distinct_Subarrays_With_Length_KKt">
-    <configuration name="Count_Number_of_Nice_SubarraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.Count_Number_of_Nice_SubarraysKt" />
+  <component name="RunManager" selected="Kotlin.Fun_findMaximumXOR_nums__IntArray___Int_________________Kt">
+    <configuration name="Fun_findMaximumXOR_nums__IntArray___Int_________________Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayAndString.Fun_findMaximumXOR_nums__IntArray___Int_________________Kt" />
       <module name="leetcodeForChicken" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_LimitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_LimitKt" />
+    <configuration name="Maximum_Sum_Circular_SubarrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayAndString.Maximum_Sum_Circular_SubarrayKt" />
       <module name="leetcodeForChicken" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Sum_of_Distinct_Subarrays_With_Length_KKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.Maximum_Sum_of_Distinct_Subarrays_With_Length_KKt" />
+    <configuration name="Minimum_Number_of_Flips_to_Make_the_Binary_String_AlternatingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayAndString.Minimum_Number_of_Flips_to_Make_the_Binary_String_AlternatingKt" />
       <module name="leetcodeForChicken" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_of_Sub_arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_ThresholdKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.Number_of_Sub_arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_ThresholdKt" />
+    <configuration name="Subarray_Sums_Divisible_by_KKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayAndString.Subarray_Sums_Divisible_by_KKt" />
       <module name="leetcodeForChicken" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Smallest_Range_IIKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindow.Smallest_Range_IIKt" />
+    <configuration name="Sum_of_All_Odd_Length_SubarraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayAndString.Sum_of_All_Odd_Length_SubarraysKt" />
       <module name="leetcodeForChicken" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Maximum_Sum_of_Distinct_Subarrays_With_Length_KKt" />
-        <item itemvalue="Kotlin.Smallest_Range_IIKt" />
-        <item itemvalue="Kotlin.Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_LimitKt" />
-        <item itemvalue="Kotlin.Number_of_Sub_arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_ThresholdKt" />
-        <item itemvalue="Kotlin.Count_Number_of_Nice_SubarraysKt" />
+        <item itemvalue="Kotlin.Fun_findMaximumXOR_nums__IntArray___Int_________________Kt" />
+        <item itemvalue="Kotlin.Sum_of_All_Odd_Length_SubarraysKt" />
+        <item itemvalue="Kotlin.Minimum_Number_of_Flips_to_Make_the_Binary_String_AlternatingKt" />
+        <item itemvalue="Kotlin.Subarray_Sums_Divisible_by_KKt" />
+        <item itemvalue="Kotlin.Maximum_Sum_Circular_SubarrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737086206549</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Array problems">
+      <option name="closed" value="true" />
+      <created>1738116968658</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1738116968658</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -400,7 +411,8 @@
     <MESSAGE value="Linked Lists  + Trees + Greedy" />
     <MESSAGE value="Bit Manipulation (easy)" />
     <MESSAGE value="2 Pointers" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 Pointers" />
+    <MESSAGE value="Array problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -414,11 +426,6 @@
           <url>file://$PROJECT_DIR$/src/arrayAndString/Is Subsequence.kt</url>
           <line>7</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/arrayAndString/Product of Array Except Self.kt</url>
-          <line>15</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/arrayAndString/Merge Intervals.kt</url>
@@ -790,6 +797,56 @@
           <url>file://$PROJECT_DIR$/src/slidingWindow/Smallest Range II.kt</url>
           <line>17</line>
           <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/arrayAndString/Subarray Sum Equals K.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/arrayAndString/Continuous Subarray Sum.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/arrayAndString/Continuous Subarray Sum.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/arrayAndString/Product of Array Except Self.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/arrayAndString/Product of Array Except Self.kt</url>
+          <line>40</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/arrayAndString/Maximum Sum Circular Subarray.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/arrayAndString/Maximum Sum Circular Subarray.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/arrayAndString/Subarray Sums Divisible by K.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/arrayAndString/Minimum Number of Flips to Make the Binary String Alternating.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/arrayAndString/Maximum XOR of Two Numbers in an Array.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="229" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
