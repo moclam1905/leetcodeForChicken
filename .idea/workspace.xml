@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9ab45c2-135b-4574-8557-ebc232769ddd" name="Changes" comment="Array problems">
-      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Continuous Subarray Sum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Find Pivot Index.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Maximum Sum Circular Subarray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Maximum XOR of Two Numbers in an Array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Minimum Number of Flips to Make the Binary String Alternating.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Minimum Value to Get Positive Step by Step Sum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Range Sum Query - Immutable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Subarray Sum Equals K.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Subarray Sums Divisible by K.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayAndString/Sum of All Odd Length Subarrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicProgramming/Longest Increasing Path in a Matrix.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/Candy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/Gas Station.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/Maximum Subarray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/Non-decreasing Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/Non-overlapping Intervals.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/Partition Labels.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/Reorganize String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/Task Scheduler.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrayAndString/Product of Array Except Self.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayAndString/Product of Array Except Self.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,7 @@
     "Kotlin.Largest_Rectangle_in_HistogramKt.executor": "Debug",
     "Kotlin.Longest_Common_SubsequenceKt.executor": "Debug",
     "Kotlin.Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_LimitKt.executor": "Debug",
+    "Kotlin.Longest_Increasing_Path_in_a_MatrixKt.executor": "Debug",
     "Kotlin.Longest_Increasing_SubsequenceKt.executor": "Debug",
     "Kotlin.Longest_Mountain_in_ArrayKt.executor": "Debug",
     "Kotlin.Longest_Repeating_Character_ReplacementKt.executor": "Debug",
@@ -70,9 +69,13 @@
     "Kotlin.Minimum_Deletions_to_Make_Character_Frequencies_UniqueKt.executor": "Debug",
     "Kotlin.Minimum_Number_of_Flips_to_Make_the_Binary_String_AlternatingKt.executor": "Debug",
     "Kotlin.Minimum_Window_SubstringKt.executor": "Debug",
+    "Kotlin.Non_decreasing_ArrayKt.executor": "Debug",
+    "Kotlin.Non_overlapping_IntervalsKt.executor": "Debug",
     "Kotlin.Number_of_Sub_arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_ThresholdKt.executor": "Debug",
+    "Kotlin.Partition_LabelsKt.executor": "Debug",
     "Kotlin.Permutation_in_StringKt.executor": "Debug",
     "Kotlin.Product_of_Array_Except_SelfKt.executor": "Debug",
+    "Kotlin.Reorganize_StringKt.executor": "Debug",
     "Kotlin.Reverse_Vowels_of_a_StringKt.executor": "Debug",
     "Kotlin.Reverse_Words_in_a_StringKt.executor": "Debug",
     "Kotlin.Sliding_Window_MaximumKt.executor": "Debug",
@@ -109,37 +112,37 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Fun_findMaximumXOR_nums__IntArray___Int_________________Kt">
-    <configuration name="Fun_findMaximumXOR_nums__IntArray___Int_________________Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayAndString.Fun_findMaximumXOR_nums__IntArray___Int_________________Kt" />
+  <component name="RunManager" selected="Kotlin.Reorganize_StringKt">
+    <configuration name="Longest_Increasing_Path_in_a_MatrixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicProgramming.Longest_Increasing_Path_in_a_MatrixKt" />
       <module name="leetcodeForChicken" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Sum_Circular_SubarrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayAndString.Maximum_Sum_Circular_SubarrayKt" />
+    <configuration name="Non_decreasing_ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.Non_decreasing_ArrayKt" />
       <module name="leetcodeForChicken" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_Number_of_Flips_to_Make_the_Binary_String_AlternatingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayAndString.Minimum_Number_of_Flips_to_Make_the_Binary_String_AlternatingKt" />
+    <configuration name="Non_overlapping_IntervalsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.Non_overlapping_IntervalsKt" />
       <module name="leetcodeForChicken" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subarray_Sums_Divisible_by_KKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayAndString.Subarray_Sums_Divisible_by_KKt" />
+    <configuration name="Partition_LabelsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.Partition_LabelsKt" />
       <module name="leetcodeForChicken" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_of_All_Odd_Length_SubarraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayAndString.Sum_of_All_Odd_Length_SubarraysKt" />
+    <configuration name="Reorganize_StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.Reorganize_StringKt" />
       <module name="leetcodeForChicken" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Fun_findMaximumXOR_nums__IntArray___Int_________________Kt" />
-        <item itemvalue="Kotlin.Sum_of_All_Odd_Length_SubarraysKt" />
-        <item itemvalue="Kotlin.Minimum_Number_of_Flips_to_Make_the_Binary_String_AlternatingKt" />
-        <item itemvalue="Kotlin.Subarray_Sums_Divisible_by_KKt" />
-        <item itemvalue="Kotlin.Maximum_Sum_Circular_SubarrayKt" />
+        <item itemvalue="Kotlin.Reorganize_StringKt" />
+        <item itemvalue="Kotlin.Longest_Increasing_Path_in_a_MatrixKt" />
+        <item itemvalue="Kotlin.Non_overlapping_IntervalsKt" />
+        <item itemvalue="Kotlin.Non_decreasing_ArrayKt" />
+        <item itemvalue="Kotlin.Partition_LabelsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738116968658</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Array problems">
+      <option name="closed" value="true" />
+      <created>1738374906831</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1738374906831</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -847,6 +858,59 @@
           <url>file://$PROJECT_DIR$/src/arrayAndString/Maximum XOR of Two Numbers in an Array.kt</url>
           <line>8</line>
           <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/greedy/Partition Labels.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/greedy/Partition Labels.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/greedy/Non-overlapping Intervals.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/dynamicProgramming/Longest Increasing Path in a Matrix.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/greedy/Reorganize String.kt</url>
+          <line>39</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/greedy/Reorganize String.kt</url>
+          <line>23</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/greedy/Reorganize String.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/greedy/Reorganize String.kt</url>
+          <line>92</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/greedy/Reorganize String.kt</url>
+          <line>68</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/greedy/Reorganize String.kt</url>
+          <line>96</line>
+          <option name="timeStamp" value="243" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
