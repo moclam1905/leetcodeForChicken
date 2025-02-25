@@ -83,3 +83,6 @@ fun searchX(nums: IntArray, target: Int, l: Int, r: Int): Int {
 fun searchFinal(nums: IntArray, target: Int): Int {
     return searchX(nums, target, 0, nums.size - 1)
 }
+fun main() {
+    searchArr(intArrayOf(4,5,6,7,0,1,2), 0)
+}
